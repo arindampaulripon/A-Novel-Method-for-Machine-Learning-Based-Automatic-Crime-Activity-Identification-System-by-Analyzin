@@ -1,0 +1,2 @@
+# A-Novel-Method-for-Machine-Learning-Based-Automatic-Crime-Activity-Identification-System-by-Analyzin
+The main goal is to identify and prevent randomly occurred crimes on various regions. I'm using the deep learning method for predicting the accurate suspects or criminals who are generally involved in doing various kinds of crime . It will build a very intelligent and perfect automated system for any situation or region 
